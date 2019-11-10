@@ -1,4 +1,5 @@
 # Simple Phone Dialer
+[![](https://github.com/Abror96/CustomPhoneDialer/workflows/ci/badge.svg)](https://github.com/Abror96/CustomPhoneDialer/actions)
 
 This is converted from Kotlin to Java version of Arek Olek's [`project`][13]
 
