@@ -1,5 +1,5 @@
 # Simple Phone Dialer
-![Build2](https://github.com/Abror96/CustomPhoneDialer/workflows/Build/badge.svg)
+![](https://github.com/Abror96/CustomPhoneDialer/workflows/Gradle/badge.svg)
 
 This is converted from Kotlin to Java version of Arek Olek's [`project`][13]
 
